@@ -8,6 +8,7 @@ public class RemoveElement {
             }
         }
         //print answer
+        System.out.println("Remove Element");
         for (int i = 0; i < nums.length; i++) {
             System.out.print(nums[i] + ",");
         }
